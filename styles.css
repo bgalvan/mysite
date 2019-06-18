@@ -20,4 +20,6 @@ font-family: Blippo;
 align: center;
 }
 
-
+iframe {
+display: block;
+}
