@@ -1,3 +1,18 @@
+head {
+font-family: Blippo;
+}
+
+h1 {
+align: left;
+}
+
+h2 {
+align: right;
+}
+
 foot {
+font-family Blippo;
 align: middle;
 }
+
+
