@@ -1,9 +1,14 @@
 head {
 font-family: Blippo;
+font-weight: bold;
 }
 
 h1 {
 align: left;
+}
+
+nav {
+font-family: Blippo;
 }
 
 h2 {
@@ -11,8 +16,8 @@ align: right;
 }
 
 foot {
-font-family Blippo;
-align: middle;
+font-family: Blippo;
+align: center;
 }
 
 
