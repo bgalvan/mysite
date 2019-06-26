@@ -1,5 +1,14 @@
+@font-face {
+    font-family: Lato;
+    src: url(./Lato/Lato-Regular.ttf);
+}
+
+body, html {
+}
+
+
 h1 {
-font-weight: bold;
+    text-align: center;
 }
 
 p {
