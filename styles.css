@@ -4,6 +4,7 @@
 }
 
 body, html {
+    font-family:Lato;
 }
 
 
@@ -17,7 +18,18 @@ font-weight: light;
 
 nav {
 font-size:125%;
+overflow: hidden;
 }
+
+nav a{
+    color:#B22222;
+    text-align: center;
+    padding: 25px;
+}
+
+nav a:hover {
+}
+
 
 iframe {
 display: block;
