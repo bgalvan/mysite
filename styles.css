@@ -5,6 +5,7 @@
 
 body, html {
     font-family:Lato;
+    height: 100%;
 }
 
 
@@ -12,17 +13,39 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: right;
+}
+
 p {
-font-weight: light;
+    font-size: 123%;
+    color: rgb(0, 0, 0);
+}
+
+.xl {
+    font-size: 120%;
+    color: rgb(196,30,58);
+}
+
+
+
+.bg {
+    background-image: url("./sky.jpg");
+    height: 100%;
+    position: relative;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
 }
 
 nav {
-font-size:125%;
+font-size:135%;
 overflow: hidden;
 }
 
 nav a{
-    color:#B22222;
+    color: rgb(196,30,58);
     text-align: center;
     padding: 25px;
 }
