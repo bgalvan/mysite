@@ -30,7 +30,7 @@ p {
 
 
 .bg {
-    background-image: url("./sky.jpg");
+    background-image: url("./web/pics/sky.jpg");
     height: 100%;
     position: relative;
     background-position:center;
